@@ -1,0 +1,42 @@
+# Use the Python 3.10.12 base image
+FROM python:3.10.12
+
+# Install apt-utils to avoid the warning
+RUN apt-get clean && apt-get update
+RUN apt-get update && apt-get install ffmpeg libsm6 libxext6 -y 
+
+# Install git and other required dependencies
+RUN apt-get update && apt-get install -y git
+RUN apt-get install default-jre -y
+
+# Making working directory
+RUN mkdir /app
+
+#Making output directory
+RUN mkdir /app/output
+
+# Set a working directory inside the container
+WORKDIR /app
+
+# Copy the model script and requirements into the container
+COPY requirements.txt /app/
+COPY ClimateActionPlan.pdf /app/
+COPY 463-020.pdf /app/
+COPY content.pdf /app/
+COPY gen_kg.ipynb /app/
+COPY ho87.pdf /app/
+
+# Downlo--ad the en_core_web_sm-3.6.0 .whl file
+RUN wget https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0-py3-none-any.whl
+
+# Install the downloaded .whl file using pip
+RUN pip install -U en_core_web_sm-3.6.0-py3-none-any.whl
+
+#Installing other libraries
+RUN pip install -r requirements.txt
+
+# Expose the Jupyter Notebook port
+EXPOSE 8888
+
+# Start Jupyter Notebook when the container runs
+CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]

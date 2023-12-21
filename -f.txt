@@ -1,0 +1,1883 @@
+  
+TOWN OF  
+BLACKSBURG 
+CLIMATE VULNERABILITY ASSESSMENT 
+SEPTEMBER 2020 
+2 
+Blacksburg Climate Vulnerability Assessment Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+Message from Mayor Leslie Hager-Smith 
+Blacksburg is proud to be counted among the hundreds of local 
+governments across America that are taking action to address climate 
+change, while making their communities healthier and more resilient. We 
+have long recognized our fundamental responsibility to take stock of our 
+share of the planet’s greenhouse gas emissions and hold up our end of the 
+bargain to ensure a stable climate for future generations.  One key way we 
+are doing that is by integrating goals from Blacksburg’s 2016 Climate Action 
+Plan into its Comprehensive Plan, which will elevate climate priorities into 
+future land-use, infrastructure, and transportation decision. 
+ 
+We also know that reducing emissions, while critically important, will not be 
+enough.  As a global community, we have been burning fossil fuels at an 
+ever-accelerating pace since the advent of the industrial revolution.  Those emissions are already in our 
+atmosphere and we will have to contend with a certain amount of climate change that is already baked in.   
+ 
+Stressors like poverty, inequality, public health challenges, economic volatility, and environmental 
+degradation will almost certainly be made worse by a changing climate. These changes have the potential 
+to disrupt our lives and livelihoods in numerous ways, and we know we will need to adapt.  For Blacksburg 
+to do that, we need to first assess which community systems might be at risk.  We also recognize that the 
+needs of people who are likely to be hurt first and worst by climate change should be prioritized in our 
+future plans for climate adaptation. 
+ 
+To become a truly climate-resilient community, Blacksburg has to do three things: continue to act boldly to 
+reduce our greenhouse gas emissions; begin adapting to changes that cannot be avoided under a low-
+emissions scenario; and, pro-actively plan for how we might respond to the challenges of a high-emissions 
+scenario.    The good news is, climate mitigation and adaptation strategies can work in concert, providing 
+benefits that align with community goals around affordable housing, resilient natural systems, expanded 
+transportation options, and thriving civic spaces. 
+ 
+As I reflect on the ways in which Blacksburg has come together so many times in the past to overcome 
+daunting challenges, I know we are equal to the task ahead of us.   
+Leslie Hager-Smith 
+Mayor of Blacksburg, VA 
+4 
+Centering Equity 
+ 
+ 
+ 
+ 
+ 
+Centering Equity in Climate Adaptation and Resiliency Planning & Implementation 
+Climate change does not affect everyone equally.  In evaluating potential impacts a key consideration is 
+to recognize that some people will be disproportionately worse off than others. These groups are 
+commonly referred to as “vulnerable populations” or “marginalized groups.”  For the purposes of this 
+report, they will be identified as frontline communities, because it is they who will be on the 
+front lines of the unfolding climate emergency.  Factors that increase the potential impact of climate 
+hazards on individuals include: 
+ 
+ Age factors (very young and very old people are more vulnerable to heat stress) 
+ Complex health challenges  -or- mobility, sensory or cognitive impairments 
+ Limited social connections or support networks 
+ Limited financial resources 
+ Working outdoors or in unconditioned spaces 
+ Inadequate, unstable or unaffordable housing options 
+ Insecure or unaffordable transportation options 
+ Language or cultural barriers 
+ 
+With the exception of age, the factors listed above are disproportionately found among people of color, 
+indigenous peoples, immigrant communities, and in rural areas.  The following excerpt from “Making 
+Equity Real in Climate Adaptation and Community Resilience Guidebook”, emphasizes the historical 
+context and clear need to place equity at the center of climate adaptation work: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To make equity real in its climate adaptation and resilience work, the Town of Blacksburg commits to: 
+1. Embedding equity in the mission, vision and values for Blacksburg’s adaptation and resilience plan. 
+2. Building equity and deep engagement into the planning and implementation process. 
+3. Ensuring equity outcomes by responding to community needs in policy-making and implementation. 
+4. Measuring and analyzing for equity outcomes over time with an eye toward continual improvement. 
+ 
+“Decades of underinvestment and unjust systems have left frontline communities 
+with high levels of poverty and pollution, poorer health outcomes, a lack of quality 
+jobs and education opportunities, outdated and weak critical infrastructure, 
+disproportionately high costs for energy, transportation and basic necessities, and 
+limited access to public services. Moreover, frontline communities have long been 
+excluded from policy and funding decision-making processes that can be used to 
+address the injustices they experience and support a transition to healthy 
+communities. Exclusion from the decision-making table is one reason the needs of 
+frontline communities have not been prioritized. As a result of these injustices, 
+frontline communities have fewer resources to deal with the risks from climate 
+change. These communities are often hit first and worst by climate impacts, which 
+only exacerbate the environmental and socioeconomic inequities they already face.” 
+5 
+Introduction, Background & Process 
+How hot is too hot and when does it become a problem?  
+How wet is too wet and when does it become a problem? 
+How do these and other changes to the climate intersect? 
+How should localities like Blacksburg plan and adapt? 
+ 
+The answers to these questions are challenging to navigate.  We can explore the question through some 
+comparative examples.  Take for instance, a midsummer day in Anchorage, Alaska where a temperature 
+above 80oF would be considered extremely hot, since the average daily highs in July are usually in the mid to 
+high 60s.  Yet this same temperature would be considered unseasonably cool for Phoenix, Arizona, where 
+July average daily highs topping 105oF are the norm.  In these two places, as in all places, both the natural 
+systems and the built environment have emerged, were cultivated, or were constructed to accommodate a 
+predictable range of climatic conditions.    
+ 
+Blacksburg falls between these two extremes, with an average high temperature in July in the low to mid 
+80s.  Occasional hotter days are not unheard of in our region.  The historic record shows that between 1950 
+and 2013, Blacksburg had around 4-5 days per year where the temperatures got above 90oF, with far fewer 
+days that topped 95oF. (source: NOAA Climate Explorer, Blacksburg, VA in Montgomery County—Days with 
+max >90oF, >95oF, Historical Observed).  
+ 
+Communities are built over a long time.  Buildings and infrastructure are constructed to perform within a 
+predictable range of conditions and are expected to be around for many decades, if not centuries. Similarly, 
+natural systems, which contribute diverse and incalculable value to the surrounding community, are highly 
+tied to a predictable set of climatic conditions for that region.   Whole economies like agriculture and 
+tourism revolve around predictability of the seasons. All of these systems become vulnerable and potentially 
+unstable if climatic conditions change substantially.  
+ 
+Communities like Blacksburg will be well served by taking an honest look at the climate vulnerabilities they 
+will be facing in the coming years and decades.  Decisions we make now around infrastructure, land use, 
+transportation investments, buildings, and public health can prepare us, not just to survive in a changing 
+climate, but to thrive. 
+6 
+Introduction, Background & Process 
+Climate Action: Mitigation and Adaptation 
+Climate Change will be the defining challenge of the 21st century. Evidence continues to mount that 
+continued inaction on greenhouse gas emissions could lead to catastrophic changes, destabilizing the very 
+systems that support and sustain human civilizations.  Billions of people will experience these changes 
+through threats to public health, disruption of national and local economies, and food and water insecurity.  
+Buildings and infrastructure will be increasingly impacted by the severity and frequency of weather events.  
+For certain coastal communities, these threats will be amplified by rising sea levels. 
+ 
+A business-as-usual pattern of carbon emissions is likely to create 4°C of warming, and could lock in enough 
+sea level rise to submerge land currently home to 470 to 760 million people, with unstoppable rise unfolding 
+over centuries. By contrast, significant cuts to global carbon emissions limiting warming to 2°C could bring 
+the number as low as 130 million people.  Foreign policy experts increasingly warn that people internally 
+displaced from sea level rise, droughts, wildfires, food insecurity, and super storms are considered a risk to 
+domestic stability within their own countries and international security more broadly.   
+ 
+While a worldwide policy response to climate change is urgently required, a great deal of the action and 
+implementation will have to take place at the local level.  Back 
+in 2007, Blacksburg was proud to join a growing list of U.S. 
+cities that stepped forward to make a formal commitment to 
+reduce their community’s greenhouse gas emissions. In 2016, 
+Blacksburg took a major step toward operationalizing that 
+commitment by adopting a Climate Action Plan.  
+ 
+Blacksburg’s Climate Action Plan (CAP) is solely focused on 
+mitigation, and establishes a set of strategies that will enable 
+Blacksburg to significantly reduce community-wide 
+greenhouse gas emissions.  While recognizing the seriousness 
+of the climate crisis, the CAP does not attempt to evaluate 
+how Blacksburg might be specifically vulnerable in a 
+changing climate, or what we, as a community can do to 
+prepare and adapt.  Mitigation and adaptation measures are 
+both clearly needed if we intend transition to a thriving, 
+resilient future. 
+In the pages that follow, this Climate Vulnerability Assessment 
+will demonstrate these area of heightened vulnerability for Blacksburg and will point toward a set of 
+objectives for how Blacksburg can adapt. 
+7 
+Introduction, Background & Process 
+Planning for the Unavoidable...and More 
+Climate change is already here.  We can see the evidence in temperature records being broken year after 
+year along with other accelerating indicators like sea level rise, melting glaciers, and more frequent and 
+intense storms.  Blacksburg has committed to doing its part to reduce its share of greenhouse gas emissions.  
+At the same time, we also recognize that there is a certain amount of climate change that is unavoidable, 
+even under a best-case scenario.  Even if we are successful, not just locally, but as a global community in 
+sharply reducing greenhouse gas emissions over the next decade, there is a certain amount of climate 
+change that is simply “baked in” at this point.  At a minimum, all communities should start planning now for 
+how they will address the changes that are anticipated under this best case/low-emissions scenario.  Despite 
+near unanimity among climate scientists that this is a problem requiring urgent, bold, and coordinated 
+action, it is increasingly unclear if the needed political leadership will emerge on the national and world 
+stages to put us on a path to that lower-emission scenario.  Therefore, common sense dictates that it would 
+be wise to plan for higher-emissions scenarios as well.   
+Climate Metrics Considered 
+To evaluate the climate hazards Blacksburg may need to start planning for, thirteen key temperature and 
+precipitation metrics were analyzed. Each of these metrics point to potential areas of vulnerability: to 
+people, to natural systems, to the economy, and to infrastructure and basic services.   
+ The climate metrics evaluated for this report include: 
+ Cooling Degree Days (indicator of energy required to cool buildings in warmer months) 
+ Growing Degree Days (indicator of agricultural production potential, as well as plant heat stress) 
+ Modified Growing Degree Days (indicator of heat-related plant stress for key agricultural staple crops) 
+ Heating Degree Days (indicator of energy required to heat buildings in cold months) 
+ Days with Maximum Temperature > 90 degrees (hot days—risk of heat stress) 
+ Days with Maximum Temperature > 95 degrees (very hot days—high risk of heat stress) 
+ Days with Minimum Temperature < 32 degrees (cold days) 
+ Days with Maximum Temperature < 32 degrees (very cold days) 
+ Average Daily Minimum Temperature (overnight temperatures) 
+ Total Annual Precipitation (indicator of changes to overall hydrological cycle) 
+ Total Monthly Precipitation (indicator of changes in seasonal precipitation) 
+ Days with > 1” precipitation (indicator of potential flooding events) 
+ Dry Days, days with < .01” precipitation (indicator of drought or change of precipitation frequency) 
+8 
+Introduction, Background & Process 
+Temporal, Emissions, and Geographic Scopes Evaluated 
+While it might seem intuitive that only local changes to the climate would be relevant, changes at the national 
+level may prove to be just as impactful.  At the local level, we can anticipate vulnerabilities for individuals, 
+private property, natural systems, and infrastructure.  At the national level, we may see complex, 
+interdependent systems like the electric grid or networks of food production stressed, possibly to the 
+breaking point.  Extreme changes to the climate may even make some parts of the country less livable to its 
+residents prompting populations to voluntarily displace.   
+With an eye toward development of an adaptation and resiliency plan, it is also useful to explore different 
+time scales.  For some adaptation strategies, a shorter time horizon is most appropriate (e.g. a public 
+engagement campaign on mitigating heat stress for outdoor workers).  For others, particularly those that 
+involve investments in infrastructure or buildings, a focus on climate realities nearer the end of this century 
+are more salient.  
+For these reasons, mid-century and end-of-century time scales, low- and high- emissions scenarios, and local 
+and national geographic scopes were evaluated for each of the thirteen climate metrics under consideration 
+in order to identify and prioritize the top climate hazards of concern for Blacksburg. 
+Temporal Scopes & Emissions Scenarios 
+ 
+Historical Averages: 
+Local Observed Historical Average (1950-2013) 
+Local Modeled Historical Average (1950-2006) 
+National Observed Historical Average (1961-1990) 
+ 
+Mid-Century Projections/Modeling 
+Local Modeled Low-Emissions Scenario (avg. 2036-2065) 
+Local Modeled High-Emissions Scenario (avg. 2035-2065) 
+National Model Low-Emission Scenario (avg. 2050s) 
+National Modeled High-Emissions Scenario (avg. 2050s) 
+ 
+End-of-Century Projections/Modeling 
+Modeled Low-Emissions Scenario (avg. 2065-2095) 
+Modeled High-Emissions Scenario (avg. 2065-2095) 
+National Model Low-Emission Scenario (avg. 2090s) 
+National Modeled High-Emissions Scenario (avg. 2090s) 
+ 
+                       
+Geographic Scopes      
+ 
+Local/Regional (Montgomery County, VA) 
+ 
+Continental United States                        
+Low-Emissions Scenario  
+High-Emissions Scenario  
+Low-Emissions Scenario  
+High-Emissions Scenario  
+9 
+Introduction, Background & Process 
+Community Systems at Risk 
+Changes to the climate are expected to impact most aspects of our lives and livelihoods.  Significant shifts in 
+precipitation patterns and seasonal temperatures within and even beyond Blacksburg’s borders have the 
+potential to result in an array of local impacts that we can and should begin planning for today.  However, in 
+order to determine where the Town should focus its efforts, the critical community systems that may be at 
+risk should first be identified.  The table below organizes these community systems into four broad 
+categories: people & community, natural systems, economy & employment, and infrastructure & basic 
+services. Elements and systems that are critical to the functioning of our community and the well being of 
+residents are listed below each heading. 
+Identifying Top Climate Hazards 
+Evaluating each climate metric in this way indicates the primary climate hazards of concern for Blacksburg: 
+ hotter summers (Blacksburg and U.S.) 
+ warmer winters (Blacksburg and U.S.) 
+ increased precipitation (Blacksburg) & changing precipitation patterns (U.S.) 
+Now that we have a sense of the degree of change (frequency, intensity) of each of the key climate metrics, 
+we can turn our attention to what that might mean for Blacksburg.  Specifically, what community systems 
+might be most impacted? 
+Climate Hazards and Critical Community Systems: Potential Areas of Vulnerability 
+People & Community 
+Natural Systems 
+Economy & Employment 
+Infrastructure & Basic Services 
+ A. Financial Wellbeing (HH) 
+G. Agriculture/Farming 
+L. Business Continuity 
+P. Emergency Services/Management 
+B. Food Security 
+H. Ecosystem Services 
+M. Employment Continuity 
+Q. Energy Access & Delivery 
+C. Homes & Buildings 
+I. Forests/Tree Cover 
+N. Industrial Operations 
+R. Internet & Communications 
+D. Human Health & Wellbeing 
+J. Hydrology/Watershed 
+O. Tourism 
+S. Law & Order 
+E. Population Displacement 
+K. Invasives/Species Shift 
+ 
+T. Stormwater Infrastructure 
+F. Public Safety 
+ 
+ 
+U. Transportation System 
+ 
+ 
+ 
+V. Water Supply 
+ 
+ 
+ 
+W. Water/Wastewater Infrastructure 
+10 
+Introduction, Background & Process 
+Prioritizing Risks 
+To be sure, not all community systems are created equal, nor will they be equally impacted by hotter 
+summers, warmer winters, and changing precipitation patterns.  For each of the thirteen climate metrics the 
+following questions were used to evaluate the relative vulnerability of each community system: 
+ 
+What is the potential impact of a given climate metric on this community system? (low to high) 
+ Probability, frequency, and intensity of change 
+ Community systems that could be adversely impacted 
+ Types and degree of anticipated impact on each community system 
+ Geographic scope of impact (narrow to broad) 
+ Demographic scope + equity lens: likelihood of disproportionate impacts on frontline communities 
+How much adaptive capacity exists to mitigate these anticipated impacts? (high to low) 
+ Practical or technological feasibility of adaptation measures 
+ Degree of local control to enact adaptation measures 
+ Available resources to pursue adaptation measures 
+Within each chapter, a critical community systems table and risk prioritization matrix 
+offer a snapshot of the community systems most at risk from each climate hazard.  The Critical Community 
+Systems Table is broken up into four groupings: People & Community, Natural Systems, Economy & 
+Employment, and Infrastructure & Basic Services.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note that the letters A-W in both the table and matrix correspond with one another.  For both, the darker 
+squares indicate the community systems that may be the most vulnerable in a changing climate.  It is these 
+areas of heightened potential vulnerability that will warrant special attention and focus for climate 
+adaptation policy-making. 
+People and 
+Community 
+Natural 
+Systems 
+Economy and 
+Employment 
+Infrastructure and 
+Basic Services 
+11 
+Introduction, Background & Process 
+ 
+ 
+ 
+Q 
+ 
+B 
+ 
+D 
+ 
+G/J 
+ 
+ 
+ 
+ 
+ 
+ 
+K 
+ 
+ 
+ 
+ 
+ 
+ 
+T 
+ 
+W 
+Potential Impact 
+Low                                                High 
+Adaptive Capacity 
+High                                              Low 
+Critical Community Systems: Potential Areas of Vulnerability (Sample) 
+People & Community 
+Natural Systems 
+Economy & Employment 
+Infrastructure & Basic Services 
+ A. Financial Wellbeing (HH) 
+G. Agriculture/Farming 
+L. Business Continuity 
+P. Emergency Services/Management 
+B. Food Security 
+H. Ecosystem Services 
+M. Employment Continuity 
+Q. Energy Access & Delivery 
+C. Homes & Buildings 
+I. Forests/Tree Cover 
+N. Industrial Operations 
+R. Internet & Communications 
+D. Human Health & Wellbeing 
+J. Hydrology/Watershed 
+O. Tourism 
+S. Law & Order 
+E. Population Displacement 
+K. Invasives/Species Shift 
+ 
+T. Stormwater Infrastructure 
+F. Public Safety 
+ 
+ 
+U. Transportation System 
+ 
+ 
+ 
+V. Water Supply 
+ 
+ 
+ 
+W. Water/Wastewater Infrastructure 
+ 
+In the chapters that follow, 
+you will find a paired 
+community systems table 
+(above) with a risk matrix 
+(left) similar to the samples 
+shown here. 
+ 
+These show the  anticipated 
+degree of risk for each 
+community system relative 
+to Blacksburg’s primary 
+climate hazards: 
+Hotter Summers 
+Warmer Winters 
+Changing Precipitation 
+ 
+Proposed adaptation 
+strategies will center around 
+areas of highest anticipated 
+risk (darker squares). 
+Risk Prioritization Matrix (Sample) 
+12 
+HOTTER SUMMERS 
+13 
+Hazard: Hotter Summers in Blacksburg 
+In Blacksburg, the average temperature in July is usually in the low to mid 80s, but hotter days are not 
+unheard of in our region.  Between 1950 and 2013, the historic record shows that Blacksburg had 
+around 4-5 days per year where the temperatures got above 90oF, with far fewer days that topped 95oF.  
+Looking ahead, the weighted mean of climate models indicate that summer highs will be increasing in 
+our area.  By 2050, we are likely to see more than a six-fold increase in the number of days that top 90oF 
+even under a low-emissions scenario.  This is the amount of climate change that appears unavoidable 
+based on greenhouse gas emissions already in the atmosphere.  We can expect even more high-heat 
+days under a higher emissions scenario by midcentury.  Nearer to the end of this century, a much 
+sharper divergence in the number of very hot days is anticipated under the low– and high-
+emissions scenarios.  (sources: NOAA Climate Explorer, Blacksburg, VA in Montgomery 
+County—Days with max >90oF, >95oF, Historical Observed, Projected Modeled Data;  
+Impacts, Risks, and Adaptation in the United States: Fourth National Climate Assessment, 
+Volume II, Chapter 19, Southeast United States.) 
+# of Days Per Year 
+High Temperature above 90oF 
+Montgomery County, VA 
+Low Emissions       
+High Emissions 
+Historic Average 1950-2013 
+2050* 
+2080* 
+4.5       
+29       
+39 
+39       
+72 
+Low Emissions       
+High Emissions 
+Climate modeling for our area also indicate other measures of heat increasing over the next century, with a range of 
+potential impacts to people & community, natural systems, economy & employment, and infrastructure & basic services. 
+*30 year averages around each target year for low– and high-emissions scenarios; 2035-2065 and 2065-2095, respectively 
+Outdoor workers and people who 
+lack air conditioning may experience 
+extreme discomfort or heat illness 
+on hot days, especially if humidity is 
+high and wind is light. Hot days also 
+stress plants, animals, and 
+infrastructure such as electric lines, 
+roads, and rails. Increased demand 
+for electricity to cool homes and 
+businesses also stresses energy 
+infrastructure on hot days. 
+Frontline Communities & Hotter Summers 
+ 
+Age factors (very young and very old) 
+ 
+Complex health challenges 
+ 
+Mobility, sensory or cognitive impairments 
+ 
+Limited social connection or support networks 
+ 
+Limited financial resources 
+ 
+Working outdoors or in unconditioned spaces 
+ 
+Inadequate, unstable or unaffordable housing 
+ 
+Insecure or unaffordable transportation 
+ 
+Language or cultural barriers 
+Frontline communities are likely to be disproportionately 
+impacted by hotter summers.  For instance, if someone is 
+suffering from asthma that is exacerbated by an extended 
+heat wave, and they don’t have health insurance...how 
+would they get the medical help they need? As we 
+evaluate the range of possible adaptation strategies to 
+hotter summers in Blacksburg, frontline communities 
+should be at the decision-making table to guide the 
+process of identifying and developing the policies and 
+programs that will best align with their needs.   
+14 
+Hazard: Hotter Summers across the United States 
+Increasing heat beyond Blacksburg’s borders also has the potential to create local impacts.  The maps below 
+compare different scenarios for # of days with a maximum temperature above 90oF.  The top map shows the 
+historical average, while the middle and bottom maps show the anticipated # of high-heat days across the 
+continental United States by midcentury under low–emissions and end of century under a high-emissions 
+scenarios, respectively. While an overall warming trend is indicated, note that greater relative warming that is 
+expected for the South and Midwest.  What might this mean for agricultural productivity and overall food security?  
+Or for population migration due to water scarcity or wildfire risk?  Or the range of certain disease-vector insects? 
+In addition to the local heat-related hazards identified on the previous page, increasing summer heat at the 
+national scale has the potential to create local impacts that should also be considered as we evaluate Blacksburg’s 
+vulnerabilities to climate change. 
+United States:  # of Days Per Year with Maximum Temperature > 90oF 
+Low-Emissions 
+Scenario 
+2050s 
+Historical  
+Average 
+1961-1990 
+ 
+ 
+High-Emissions 
+Scenario 
+2090s 
+ 
+ 
+15 
+Climate Metrics: Hotter Summers in Blacksburg & the U.S. 
+Hotter Summers: Key Climate Metrics & Findings  
+Of the thirteen climate metrics evaluated, these six point to an array of potential vulnerabilities for Blacksburg. 
+Cooling Degree Days  (CDDs) 
+ The number of cooling degree days reflects the amount of energy typically used to cool a 
+building when it is warm outside. At the household level, increasing cooling degree days will 
+disproportionately impact low-income households, and people without air-conditioning or 
+who live in older less energy-efficient homes.  At the regional and national level, increasing 
+cooling degree days points to the potential for energy infrastructure to become stressed 
+beyond its capacity. 
+ 
+Modified Growing Degree Days  
+ Corn growers use the number of modified growing degree days to monitor the development of 
+corn crops.  As corn development occurs only when temperature is above 50°F but below 86°F, 
+the standard calculation for growing-degree days is modified to omit conditions outside this 
+range. In future decades, regions where temperatures regularly exceed 86°F may be less 
+successful in growing corn and potentially other staple crops that form the backbone of our 
+food system. 
+ 
+Days with Max Temp > 90 degrees and Days w/Max Temp  > 95 degrees (hot and very hot days) 
+ Outdoor workers and people who lack air conditioning may experience extreme discomfort or 
+heat illness on hot days, especially if humidity is high and wind is light. Hot days also stress 
+plants, animals, and infrastructure such as electric lines, roads, and rails. A significant 
+anticipated increase in hot and very hot days will lead to higher and more frequent peak 
+demand for electric power, further stressing the electricity grid and increasing the risk of 
+power interruptions. 
+ 
+Average Daily Minimum Temperature and Days with Minimum Temperature > 80 degrees 
+ A day’s lowest (minimum) temperature usually occurs in the early morning, just before 
+sunrise. Averaging the daily low temperatures for any period results in a mean minimum 
+temperature for that period.  These daily periods of low temperature give plants, animals, and 
+people a chance to recover from daytime heat. When daily minimum temperatures aren’t 
+sufficiently cool, plant and animal responses can trigger ecosystem changes.  The # of warm 
+nights associated with rising average daily minimum temperatures, especially # of days with 
+minimum temperature above 80 degrees can also increase the demand for energy in a 24-hour 
+period and can stress energy infrastructure.  
+16 
+Prioritized Areas of Risk: Hotter Summers 
+Prioritized Areas of Risk 
+To identify areas of heightened potential vulnerability, climate metrics for hotter summers were evaluated 
+relative to critical community systems for Blacksburg.  In addition to evaluating the direction of anticipated 
+change for these climate metrics, the following factors were explored to evaluate overall risk: 
+ 
+What is the potential impact of hotter summers on our critical community system? (low to high) 
+ Probability, frequency, and intensity of change 
+ Community systems that could be impacted 
+ Types and degree of anticipated impact on each community system 
+ Geographic scope of impact (narrow to broad) 
+ Demographic scope + equity lens: likelihood of disproportionate impacts on frontline communities 
+How much adaptive capacity exists to mitigate these anticipated impacts? (high to low) 
+ Practical or technological feasibility of adaptation measures 
+ Degree of local control to enact adaptation measures 
+ Available resources to effectively pursue adaptation measures 
+The community systems table and risk prioritization matrix on the following page offer a 
+snapshot of the community systems most at risk from hotter summers.  At a glance, it is apparent that 
+hotter summers have the potential to disrupt most of our community’s critical systems to some degree.  
+Note that the letters A-W in the risk matrix correspond to the community systems listed in the community 
+systems table above it.  The darker squares indicate the systems that may be the most vulnerable to 
+increasing heat in our community.  It is these areas of heightened potential vulnerability that will warrant 
+special attention and focus for climate adaptation policy-making. 
+ 
+To be sure, the task before us is daunting.  For some of the community systems most at risk (ecosystem 
+services), the scale of the challenge and our capacity to implement effective adaptation strategies seem 
+quite limited.  For others, (public health) a path forward to address heat stress and heat illness for 
+vulnerable segments of the population may be more straightforward. 
+ 
+The following pages list out some recommended adaptation paths for community systems most at risk 
+from hotter summers.  Translating these recommendations into actionable policies and programs will 
+require further collaboration with frontline communities, decision-makers and other stakeholders to 
+ensure the resulting adaptation and resilience strategies are realistic, effective, and equitable. 
+17 
+ 
+ 
+D 
+P 
+ 
+H 
+ 
+A 
+G 
+B/Q 
+I/K 
+ 
+ 
+C 
+M 
+ 
+ 
+ 
+ 
+E/L 
+ 
+ 
+ 
+S 
+ 
+ 
+Adaptive Capacity 
+High                                          Low 
+Potential Impact 
+Low                                          High 
+ 
+Prioritized Areas of Risk: Hotter Summers 
+Hotter Summers and Critical Community Systems: Potential Areas of Vulnerability 
+People & Community 
+Natural Systems 
+Economy & Employment 
+Infrastructure & Basic Services 
+ A. Financial Wellbeing (HH) 
+G. Agriculture/Farming 
+L. Business Continuity 
+P. Emergency Services/Management 
+B. Food Security 
+H. Ecosystem Services 
+M. Employment Continuity 
+Q. Energy Access & Delivery 
+C. Homes & Buildings 
+I. Forests/Tree Cover 
+N. Industrial Operations 
+R. Internet & Communications 
+D. Human Health & Wellbeing 
+J. Hydrology/Watershed 
+O. Tourism 
+S. Law & Order 
+E. Population Displacement 
+K. Invasives/Species Shift 
+ 
+T. Stormwater Infrastructure 
+F. Public Safety 
+ 
+ 
+U. Transportation System 
+ 
+ 
+ 
+V. Water Supply 
+ 
+ 
+ 
+W. Water/Wastewater Infrastructure 
+ 
+The climate hazard 
+Hotter Summers 
+has been evaluated for its 
+potential to impact each of the 
+critical community systems 
+listed above.   
+ 
+The relative degree of risk for 
+each community system is 
+shown in the matrix at left with 
+darker boxes indicating 
+systems that may be the most 
+vulnerable to increasing 
+summer heat in our 
+community. 
+Risk Prioritization Matrix 
+18 
+Adaptation & Resilience Strategies: Hotter Summers 
+People and 
+Community 
+Natural 
+Systems 
+Economy and 
+Employment 
+Infrastructure and 
+Basic Services 
+Community System at Risk 
+Anticipated Impacts 
+Sources 
+Agriculture/Farming 
+   >>  reduced ag output and quality 
+18, 19, 20 
+Ecosystem Services 
+   >>  loss of biodiversity 
+6 
+Forests/Tree Cover 
+   >>  loss of heat intolerant tree species 
+6 
+Invasive Species 
+   >>   shift of invasive plants, insects 
+6 
+Community System at Risk 
+Anticipated Impacts 
+Sources 
+Food Security 
+   >>  reduced ag output, rising food prices 21,22,23,25 
+Human Health & Wellbeing 
+   >>  heat related illness, quality of life 
+8,9,11,12 
+Community System at Risk 
+Anticipated Impacts 
+Sources 
+Employment Continuity 
+   >>  reduced productivity, outdoor workers 10, 13, 16 
+Community System at Risk 
+Anticipated Impacts 
+Sources 
+Emergency Services/Mgmt 
+   >>  increase demand for EMS, urgent care 
+14 
+Energy Access & Delivery 
+   >>  critical stress on electrical grid 
+15 
+19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adaptation & Resilience Strategies: Hotter Summers 
+Recommendations: Hotter Summers + Natural Systems 
+ Identify and foster agricultural climate adaptation best practices (collaboration with ag extension). 
+ Protect open and natural spaces to serve a reservoir for biodiversity. 
+ Offer incentives/establish policies to plan tree species on private and public lands that are more heat tolerant. 
+ Develop invasive species management plans for public lands; encourage private landowners to adopt practices. 
+Recommendations: Hotter Summers + People and Community 
+ Convene a climate food resiliency and security stakeholder team for the region; develop a food resiliency plan. 
+ Develop a community heat action plan strategy >> advocate for adoption into regional heat action plan. 
+Recommendations: Hotter Summers + Economy & Employment 
+ Develop a hot weather employment safety and continuity plan (integrate into regional heat action plan) 
+Recommendations: Infrastructure & Basic Services 
+ Develop a hot weather response plan for EMS and healthcare facilities (integrate into regional heat action plan) 
+ Provide accessible/cost-effective options for individuals to be safe in their homes and at work from heat illness 
+20 
+WARMER WINTERS 
+21 
+Hazard: Warmer Winters in Blacksburg 
+Winters in Blacksburg tend to be relatively mild. Traditionally, we have around a dozen deep freeze 
+days per year, during which the temperature never gets above 32 degrees F.  Although these days can 
+be pretty miserable for humans, they are very important for the health of farms and forests.  Gypsy 
+moths, hemlock woolly adelgids, emerald ash borers, corn 
+rootworm, southern pine beetles, and marmorated stink bugs 
+are all susceptible to very cold temperatures.  With fewer deep 
+freeze events, populations of these pest insects may flourish and 
+do major damage to our local forests and farms.  By 2050, we 
+are likely to see the number of very cold days cut in half under 
+both  the low-emissions and high-emissions scenarios.  This 
+amount of climate change appears unavoidable based on the 
+amount of greenhouse gas emissions already in the 
+atmosphere.  Nearer to the end of this century, there is 
+greater anticipated divergence between the low– and high-
+emissions scenarios, and the number of very cold days 
+could fall to less than a third of the historic average.  In 
+addition to a reduction in the number of very cold days 
+and deep freeze events, average daily temperatures in 
+the winter months are expected to rise.  This may bring 
+about an additional agricultural challenge due to a 
+reduction in “chill hours”, periods when the 
+temperature hovers just above freezing.  Many fruit-
+bearing trees require a certain number of chill hours in 
+order to produce fruit the following year.   
+ 
+# of Very Cold Days Per Year 
+Max Temp Below 32 Degrees F 
+Montgomery County, VA 
+Low Emissions       
+High Emissions 
+1950-2013 
+2050* 
+2080* 
+12.5       
+7.6       
+Low Emissions       
+High Emissions 
+Climate modeling for our area also indicate other measures of winter warming over the next century, with a range of 
+potential impacts to people & community, natural systems, economy & employment, and infrastructure & basic services. 
+6.8       
+6.6       
+3.9       
+Frontline Communities & Warmer Winters 
+ 
+Age factors (very young and very old) 
+ 
+Complex health challenges 
+ 
+Mobility, sensory or cognitive impairments 
+ 
+Limited social connection or support networks 
+ 
+Limited financial resources 
+ 
+Working outdoors or in unconditioned spaces 
+ 
+Inadequate, unstable or unaffordable housing 
+ 
+Insecure or unaffordable transportation 
+ 
+Language or cultural barriers 
+At the local geographic scale, warmer winters may not 
+seem to pose much of a disproportionate risk to frontline 
+communities, in fact, there is likely to be reduced energy 
+cost burden in the winter months, a challenge for many 
+low-income households.  At a national geographic scale, 
+however, warmer winters are anticipated to be very 
+disruptive to ecological cycles and agricultural 
+productivity.  Warmer winters may also extend the range 
+of disease-carrying insects farther north.   As a result, 
+vector-borne diseases and food insecurity may both rise.   
+*30 year averages around each target year for low– and high-emissions scenarios; 2035-2065 and 2065-2095, respectively 
+Historic Average     
+22 
+Hazard: Warmer Winters in the United States 
+In addition to concerns about the affect of warmer winters on farms and forests there are also public health 
+implications to consider, namely that warmer winters across much of the U.S. are likely to expand the territory 
+of human disease vector insects carrying tropical illnesses like malaria, yellow fever, Zika, dengue, and Chagas 
+disease.  Of these tropical diseases, dengue is probably the most concerning for Blacksburg and the 
+surrounding region, as the northernmost bound of this virus is just to the south of us and may reach our area 
+by 2085.  For tick– and mosquito-borne diseases that are already here such as Lyme disease, Rocky Mountain 
+Spotted Fever, and West Nile Virus, warmer winters will likely increase the number of ticks and mosquitoes 
+that are able to survive the winter and expand the number of months per year when they are active. 
+United States:  # of Days Per Year with Minimum Temperature Below 32oF 
+Low-Emissions 
+Scenario 
+2050s 
+Historical  
+Average 
+1961-1990 
+ 
+ 
+High-Emissions 
+Scenario 
+2090s 
+ 
+ 
+23 
+Climate Metrics: Warmer Winters in Blacksburg & the U.S. 
+Warmer Winters: Key Climate Metrics & Findings 
+Of the thirteen climate metrics evaluated, these three point to a mix of vulnerabilities and other outcomes 
+for Blacksburg.   
+ 
+Heating Degree Days (HDDs) 
+ The number of heating degree days at any location reflects the amount of energy people use to 
+heat a building when it is cool outside. Lower numbers of heating degree days indicate lower 
+demand for energy.  Heating degree days measure how much (in degrees), and for how long (in 
+days), outside air temperature is below 65°F. Engineers and utility companies use a location’s 
+annual number of heating degree days as one input when estimating demand for energy in the 
+cold season.  
+ 
+Days with Minimum Temperature < 32 degrees (cold days) 
+ The total number of days per year when the temperature dips below 32°F (0°C) is an indicator 
+of how often cold days occur.  A decrease in the number of days temperature drops below 
+freezing promotes earlier spring snowmelt and runoff, with important consequences for 
+managing water resources. Below-freezing temperatures can cause driving hazards, aircraft 
+icing, and damage to infrastructure, yet ski resorts and other winter recreation businesses 
+depend on sufficiently cold days to maintain snowpack. Some plants require a cumulative 
+number of days below freezing before they can begin budding or blooming in the spring.  
+ 
+ 
+Days with Maximum Temperature < 32 degrees (very cold days) 
+ The total number of days per year when the highest temperature is less than 32°F (0°C) is an 
+indicator of how often very cold days occur.  Days when the highest temperature doesn’t rise 
+above the freezing point of water are called “icing days.” The annual number of icing days tells 
+us how much rest plants get from growing. With too few icing days, some plants do not 
+perceive a “reset” signal to begin budding or blooming in the spring. The annual number of 
+icing days can also help predict how populations of pest and disease-vector insects will grow or 
+shrink in response to changing seasonal patterns. 
+ 
+24 
+Prioritized Areas of Risk 
+To identify areas of heightened potential vulnerability, climate metrics for warmer winters were evaluated 
+relative to critical community systems for Blacksburg.  In addition to evaluating the direction of anticipated 
+change for these climate metrics, the following factors were explored to evaluate overall risk: 
+ 
+What is the potential impact of warmer winters on our critical community systems? (low to high) 
+ Probability, frequency, and intensity of change 
+ Community systems that could be impacted 
+ Types and degree of anticipated impact on each community system 
+ Geographic scope of impact (narrow to broad) 
+ Demographic scope + equity lens: likelihood of disproportionate impacts on frontline communities 
+How much adaptive capacity exists to mitigate these anticipated impacts? (high to low) 
+ Practical or technological feasibility of adaptation measures 
+ Degree of local control to enact adaptation measures 
+ Available resources to effectively pursue adaptation measures 
+ Available resources to effectively pursue adaptation measures 
+The community systems table and risk prioritization matrix on the following page offer a 
+snapshot of the community systems most at risk from warmer winters.  At a glance, it is apparent that 
+warmer winters have the greatest potential to disrupt our natural systems with additional worrying 
+impacts to food security and human health.  Note that the letters A-W in the risk matrix correspond to the 
+community systems listed in the community systems table above it.  The darker squares indicate the 
+systems that may be the most vulnerable to warmer winters in our community and beyond.  It is these 
+areas of heightened potential vulnerability that will warrant special attention and focus for climate 
+adaptation policy-making. 
+ 
+As with hotter summers, warmer winters’ potential to affect agricultural productivity at the national and 
+international scale is worrying.  Similarly, northward spread of disease vector insects, invasive species, and 
+agricultural pests is likely.  Local forestlands, with tree species that are accustomed to a certain climatic 
+range may become stressed.  All of these risks are very challenging to adapt to at the local level.  
+ 
+The following pages list out some recommended adaptation paths for community systems most at risk 
+from warmer winters.  Translating these recommendations into actionable policies and programs will 
+require further collaboration with frontline communities, decision-makers, and other stakeholders to 
+ensure the resulting adaptation and resilience strategies are realistic, effective, and equitable. 
+Prioritized Areas of Risk: Warmer Winters 
+25 
+ 
+Potential Impact 
+Low                                          High 
+Adaptive Capacity 
+High                                          Low 
+Warmer Winters and Critical Community Systems: Potential Areas of Vulnerability 
+People & Community 
+Natural Systems 
+Economy & Employment 
+Infrastructure & Basic Services 
+ A. Financial Wellbeing (HH) 
+G. Agriculture/Farming 
+L. Business Continuity 
+P. Emergency Services/Management 
+B. Food Security 
+H. Ecosystem Services 
+M. Employment Continuity 
+Q. Energy Access & Delivery 
+C. Homes & Buildings 
+I. Forests/Tree Cover 
+N. Industrial Operations 
+R. Internet & Communications 
+D. Human Health & Wellbeing 
+J. Hydrology/Watershed 
+O. Tourism 
+S. Law & Order 
+E. Population Displacement 
+K. Invasives/Species Shift 
+ 
+T. Stormwater Infrastructure 
+F. Public Safety 
+ 
+ 
+U. Transportation System 
+ 
+ 
+ 
+V. Water Supply 
+ 
+ 
+ 
+W. Water/Wastewater Infrastructure 
+ 
+D 
+F  
+G  
+  
+ 
+ 
+ 
+ B 
+I/K 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ H 
+ 
+ 
+ 
+  
+ 
+ 
+Prioritized Areas of Risk: Warmer Winters 
+ 
+The climate hazard 
+Warmer Winters 
+has been evaluated for its 
+potential to impact each of the 
+critical community systems 
+listed above.   
+ 
+The relative degree of risk for 
+each community system is 
+shown in the matrix at left with 
+darker boxes indicating 
+systems that may be the most 
+vulnerable to warming winters 
+here in Blacksburg, but also at 
+the national scale.  
+Risk Prioritization Matrix 
+26 
+Anticipated Impacts: Warmer Winters in Blacksburg 
+People and 
+Community 
+Natural 
+Systems 
+Economy and 
+Employment 
+Infrastructure and 
+Basic Services 
+Limited Adverse Impact 
+Limited Adverse Impact 
+Community System at Risk 
+Anticipated Impacts 
+Sources 
+Food Security 
+   >>  reduced ag output, rising food prices 
+28, 29 
+Human Health & Wellbeing 
+   >>  increased risk of disease vector insects 
+27, 30-41 
+Public Health 
+   >>  introduction of novel diseases 
+35, 37 
+Community System at Risk 
+Anticipated Impacts 
+Sources 
+Agriculture/Farming 
+   >>  reduced ag output and quality 
+29,30 
+Forests & Tree Cover 
+   >>  loss of trees intolerant to warmer winters 
+27 
+Invasives/Species Shift 
+   >>  geographic shift of invasive plants/insects 
+27 
+27 
+Adaptation & Resilience Strategies: Warmer Winters in Blacksburg 
+Recommendations: Warmer Winters + People and Community 
+ Convene a climate food resiliency and security stakeholder team for the region; develop a food resiliency plan. 
+ Engage the public on behaviors and best practices to reduce residents’ exposure to insect borne diseases. 
+ Develop an action plan to mitigate insect-borne disease; special focus on outdoor workers and vulnerable groups. 
+ 
+ 
+ 
+Recommendations: Warmer Winters + People and Community 
+ Identify and promote agricultural climate adaptation best practices  
+ Offer incentives/establish polices to plant tree species on private and public lands that are suited to warmer temps 
+ Develop invasive species management plans for public lands; encourage private landowners to adopt practices. 
+ 
+ 
+ 
+28 
+CHANGING PRECIPITATION PATTERNS 
+29 
+Hazard: Increased Precipitation in Blacksburg 
+Blacksburg typically gets between 38-39” of rain per year.  While many parts of the country are anticipated to 
+experience reduced precipitation and even severe drought conditions due to climate change, it appears that 
+precipitation will be increasing in Blacksburg, particularly in the winter 
+months.  Climate modeling also indicates that we are likely to have a 
+modest increase in the annual number of heavy rain events.  Under 
+both the low– and high-emissions scenarios by mid-century, these 
+changes are likely to be nearly imperceptible. Under a high-emission 
+scenario, however, we may see as much as a 31% increase in 
+heavy rainfall events by the end of the century. Heavy 
+rainfall events always have the potential to create 
+flooding risks, putting people in harms way, and 
+increasing the likelihood of costly damage to 
+buildings and infrastructure.   
+ 
+While more overall precipitation is anticipated for 
+the region, we are also (paradoxically) anticipated to 
+have a slight increase in the number of dry days.  
+Longer dry periods between rains, particularly 
+heavier ones, can actually raise the risk of 
+destructive flooding and even forest fires.  Overall, 
+there is a lot of uncertainty about how local 
+ecosystems and the built environment could be 
+impacted by changing precipitation patterns. 
+ 
+ 
+ 
+Low Emissions       
+High Emissions 
+Low Emissions       
+High Emissions 
+Climate modeling for our area also indicate other measures of changing precipitation patterns over the next century, with a range of 
+potential impacts to people & community, natural systems, economy & employment, and infrastructure & basic services. 
+3.63       
+3.96     
+3.97     
+4.66       
+3.55      
+1950-2013 
+2050* 
+2080* 
+*30 year averages around each target year for low– and high-emissions scenarios; 2035-2065 and 2065-2095, respectively 
+# of Days Per Year 
+Precipitation > 1 inch 
+Montgomery County, VA 
+Frontline Communities & Precipitation Patterns 
+ 
+Age factors (very young and very old) 
+ 
+Complex health challenges 
+ 
+Mobility, sensory or cognitive impairments 
+ 
+Limited social connection or support networks 
+ 
+Limited financial resources 
+ 
+Working outdoors or in unconditioned spaces 
+ 
+Inadequate, unstable or unaffordable housing 
+ 
+Insecure or unaffordable transportation 
+ 
+Language or cultural barriers 
+At the local geographic scale, total precipitation is 
+anticipated to increase which may pose a 
+disproportionate risk to frontline communities, who  
+are statistically more likely to live in flood-prone areas.  
+At a national geographic scale, widespread hydrological 
+changes are anticipated.  Some areas will see a 
+substantial increase in annual precipitation while 
+others will encounter drier conditions.  Both are 
+anticipated to be very disruptive to ecological cycles 
+and agricultural productivity.  As a result, vector-borne 
+diseases and food insecurity may both rise.   
+Historic Average     
+30 
+Areas of Vulnerability: Increased Precipitation in Blacksburg 
+At the national scale, there is great variability in what the climate models are telling us about precipitation patterns.  
+Some areas may experience extended, severe drought while others will see a great deal more precipitation.  These 
+changes at the national scale have the potential to disrupt and destabilize food production, create widespread 
+ecological disruption and loss of biodiversity, and could even contribute to population displacement due to repeated 
+flooding, wildfires, and insufficient water supply.   
+United States:  Total Summer Precipitation 
+Low-Emissions 
+Scenario 
+2050s 
+Low-Emissions 
+Scenario 
+2020s 
+High-Emissions 
+Scenario 
+2090s 
+31 
+Hazard: Changing Precipitation Patterns in the U.S. 
+Changing Precipitation Patterns Key Climate Metrics & Findings 
+Of the thirteen climate metrics evaluated, these three point to a mix of vulnerabilities and other outcomes 
+for Blacksburg.   
+ 
+Total Annual Precipitation (indicator of changes to local and national hydrological cycle) 
+ 
+At the local level, total annual precipitation is anticipated to increase around 5-6% by midcentury 
+under both the low– and high-emission scenarios.  Closer to the end of the century, there is more 
+divergence between the low– and high-emissions scenarios, with an expected 7% and 10% average 
+annual increase expected, respectively.  At the national level, some areas are expected to receive 
+more precipitation while others will be getting drier.  All of these changes are anticipated to have 
+wide ranging effects that could directly and indirectly impact Blacksburg.  
+ 
+Total Monthly Precipitation (indicator of changes in seasonal precipitation) 
+ 
+In Blacksburg, the largest increase in precipitation relative to the historic average is expected for 
+winter months by end of century under a high-emission scenario (15%), followed by spring (12%), 
+summer (7%), and fall (3%).  The unpredictability of the type of winter precipitation is a challenging 
+factor to plan around.  Snow and ice can increase road hazards and contribute to widespread 
+disruption to the community.  All types of increased precipitation have the potential to overwhelm 
+stormwater infrastructure, particular in areas that are already at or near system capacity.  
+ 
+Days with > 1” precipitation (indicator of potential flooding events) 
+ 
+The number of days per year when locations receive more than 1 inch of precipitation is an indicator 
+of how often very heavy precipitation events occur. This measurement may also be used as an 
+indicator of flood risk.  Comparing the number of days with heavy precipitation at a single location 
+over time can reveal a trend of increasing or decreasing flood risk.  
+ 
+Dry Days, days with <.01” precipitation 
+ 
+The number of dry days per year—days when precipitation is less than 0.01 inches—gives a sense of 
+the portion of the year when no moisture is being added to the environment. Changes in the 
+number of dry days can indicate a tendency toward drier or wetter conditions.  Paradoxically, while 
+it appears that Blacksburg will see an increase in total precipitation, the # of dry days per year is also 
+expected to increase slightly under a high emissions scenario, which may mean that we can expect 
+precipitation events to become more intense.  Additionally, when the ground is drier, these higher 
+intensity precipitation events can be more damaging, with a higher risk of flash floods, erosion, 
+mudslides, and sedimentation of local waterways.  
+Climate Metrics: Changing Precipitation Patterns in Blacksburg & the U.S. 
+32 
+Prioritized Areas of Risk 
+To identify areas of heightened potential vulnerability, climate metrics for warmer winters were evaluated 
+relative to critical community systems for Blacksburg.  In addition to evaluating the direction of anticipated 
+change for these climate metrics, the following factors were explored to evaluate overall risk: 
+ 
+What is the potential impact of changing precipitation patterns on our critical community 
+systems? (low to high) 
+ Probability, frequency, and intensity of change 
+ Community systems that could be impacted 
+ Types and degree of anticipated impact on each community system 
+ Geographic scope of impact (narrow to broad) 
+ Demographic scope + equity lens: likelihood of disproportionate impacts on frontline communities 
+How much adaptive capacity exists to mitigate these anticipated impacts? (high to low) 
+ Practical or technological feasibility of adaptation measures 
+ Degree of local control to enact adaptation measures 
+ Available resources to effectively pursue adaptation measures 
+ Available resources to effectively pursue adaptation measures 
+The community systems table and risk prioritization matrix on the following page offer a 
+snapshot of the community systems most at risk from changing precipitation patterns.  At a glance, it is 
+apparent that changing precipitation patterns have the greatest potential to disrupt our natural systems 
+with additional worrying impacts to food security and an elevated risk to buildings, infrastructure, and 
+public safety from flooding.  Note that the letters A-W in the risk matrix correspond to the community 
+systems listed in the community systems table above it.  The darker squares indicate the systems that may 
+be the most vulnerable to warmer winters in our community and beyond.  It is these areas of heightened 
+potential vulnerability that will warrant special attention and focus for climate adaptation policy-making. 
+ 
+As with hotter summers and warmer winters, changing precipitation patterns have the potential to affect 
+agricultural productivity at the national and international scale.  Local biological communities and 
+forestlands, with tree species that are accustomed to a certain range of hydrological conditions may 
+become stressed.  All of these risks are very challenging to adapt to at the local level.  
+ 
+The following pages list out some recommended adaptation paths for community systems most at risk 
+from changing precipitation patterns.  Translating these recommendations into actionable policies and 
+programs will require further collaboration with frontline communities, decision-makers, and other 
+stakeholders to ensure the resulting adaptation and resilience strategies are realistic, effective, and 
+equitable. 
+Prioritized Areas of Risk: Changing Precipitation Patterns 
+33 
+Areas of Vulnerability:  Changing Precipitation Patterns in the U.S 
+ 
+Potential Impact 
+Low                                          High 
+Adaptive Capacity 
+High                                          Low 
+Changing Precipitation and Critical Community Systems: Potential Areas of Vulnerability 
+People & Community 
+Natural Systems 
+Economy & Employment 
+Infrastructure & Basic Services 
+ A. Financial Wellbeing (HH) 
+G. Agriculture/Farming 
+L. Business Continuity 
+P. Emergency Services/Management 
+B. Food Security 
+H. Ecosystem Services 
+M. Employment Continuity 
+Q. Energy Access & Delivery 
+C. Homes & Buildings 
+I. Forests/Tree Cover 
+N. Industrial Operations 
+R. Internet & Communications 
+D. Human Health & 
+Wellbeing 
+J. Hydrology/Watershed 
+O. Tourism 
+S. Law & Order 
+E. Population Displacement 
+K. Invasives/Species Shift 
+ 
+T. Stormwater Infrastructure 
+F. Public Safety 
+ 
+ 
+U. Transportation System 
+ 
+ 
+ 
+V. Water Supply 
+ 
+ 
+ 
+W. Water/Wastewater Infrastructure 
+ 
+ 
+A  
+B/G 
+  
+ 
+D 
+F/P 
+K/C  
+ 
+ 
+E 
+ I 
+ T 
+  
+ 
+G 
+ 
+ V/W 
+ 
+ 
+ 
+  
+ 
+H/J 
+Prioritized Areas of Risk: Changing Precipitation Patterns 
+Risk Prioritization Matrix 
+ 
+The climate hazard 
+Changing Precipitation 
+has been evaluated for its 
+potential to impact each of the 
+critical community systems 
+listed above.   
+ 
+The relative degree of risk for 
+each community system is 
+shown in the matrix at left with 
+darker boxes indicating 
+systems that may be the most 
+vulnerable to changing 
+precipitation patterns here in 
+Blacksburg, but also at the 
+national scale.  
+34 
+Anticipated Impacts: Changing Precipitation Patterns 
+People and 
+Community 
+Natural 
+Systems 
+Economy and 
+Employment 
+Infrastructure and 
+Basic Services 
+Limited Anticipated Impact 
+Community System at Risk 
+Anticipated Impacts 
+Sources 
+Financial Wellbeing (HH) 
+   >>  loss of property value, property damage 44, 51, 58 
+Food Security 
+   >>  reduced ag output, rising food prices 
+55, 57 
+Homes & Buildings 
+   >>  flood damage 
+43, 44 
+Public Safety 
+   >>  flash flooding 
+51 
+Community System at Risk 
+Anticipated Impacts 
+Sources 
+Agriculture/Farming 
+>>  reduced predictability of rainfall 
+54, 56 
+Invasive/Species Shift 
+>>  geographic shift of invasive plants/insects 45, 46, 52 
+ 
+ 
+Community System at Risk 
+Anticipated Impacts 
+Sources 
+Emergency Services/Mgmt 
+   >>  increased demand for EMS 
+51 
+Stormwater Infrastructure 
+   >>  stress on stormwater facilities 
+53 
+ 
+ 
+35 
+Adaptation & Resilience Strategies: Changing Precipitation Patterns 
+Recommendations: Changing Precipitation Patterns + People and Community 
+ Offer incentives for land and property owners to reduce flood risk for existing structures 
+ Convene a climate food resiliency and security stakeholder team for the region; develop a food resiliency plan. 
+ Expand land use policies and green/gray infrastructure to reduce flood risk for existing and future buildings 
+ Expand gray and green stormwater infrastructure in areas prone to flash flooding; public engagement on risk. 
+ 
+ 
+ 
+ 
+Recommendations: Changing Precipitation Patterns + People and Community 
+ Identify and promote agricultural climate adaptation best practices 
+ Develop invasive species management plans for public lands; encourage private landowners to adopt practices. 
+Recommendations: Changing Precipitation Patterns + People and Community 
+ Expand capacity of local EMS to respond to swift water and flash flood emergencies; public engagement on risk 
+ Expand gray and green stormwater infrastructure in areas prone to repeated or flash flooding 
+36 
+SOURCES, ACKNOWLEDGEMENTS, & NEXT STEPS 
+37 
+Sources 
+Introduction & Background Sources: 
+1. NOAA Climate Explorer, Blacksburg, VA in Montgomery County: Days with max > 90oF, Days with max 
+>95 oF, Cooling Degree Days, Average Daily Max Temp (oF), Average Daily Min Temp (oF), Days with 
+min > 80oF; Historical Observed, Projected Modeled Data 
+2. Impacts, Risks, and Adaptation in the United States: Fourth National Climate Assessment, Volume II, 
+Chapter 19, Southeast United States. 
+3. 
+Temperate - Your Climate Adaptation Planning Companion, Azavea, 2019-2020, https://temperate.io/ 
+4. Making Equity Real in Climate Adaptation and Community Resilience Policies and Programs: A 
+Guidebook, August 2019, The Greenlining Institute, Sona Mohnot, Jordyn Biship, Alvaro Sanches 
+ 
+Hotter Summers, Sources: 
+5. NOAA Climate Explorer, Blacksburg, VA in Montgomery County: Days with max > 90oF, Days with max 
+>95 oF, Cooling Degree Days, Average Daily Max Temp (oF), Average Daily Min Temp (oF), Days with 
+min > 80oF; Historical Observed, Projected Modeled Data 
+6. Impacts, Risks, and Adaptation in the United States: Fourth National Climate Assessment, Volume II, 
+Chapter 19, Southeast United States. 
+7. 2018: Human Health. In Impacts, Risks, and Adaptation in the United States: Fourth National Climate 
+Assessment, Volume II Ebi, K.L., J.M. Balbus, G. Luber, A. Bole, A. Crimmins, G. Glass, S. Saha, M.M. 
+Shimamoto, J. Trtanj, and J.L. White-Newsome, [Reidmiller, D.R., C.W. Avery, D.R. Easterling, K.E. 
+Kunkel, K.L.M. Lewis, T.K. Maycock, and B.C. Stewart (eds.)]. U.S. Global Change Research Program, 
+Washington, DC, USA, pp. 539–571. doi: 10.7930/NCA4.2018.CH14  
+8. Huang C, et al., Projecting future heat- related mortality under climate change scenarios: A systematic 
+review. Environmental Health Perspectives, 2011(119): p. 1681–1690  
+9. Vaidyanathan, A., et al., Assessment of extreme heat and hospitalizations to inform early warning 
+systems. Proceedings of the National Academy of Sciences, 2019. 116(12): p. 5420-5427. 
+10. Diem JE, Stauber CE, and R. R, Heat in the southeastern United States: Characteristics, trends, and 
+potential health impact. PLoS ONE, 2017. 12(5). 
+11. Killer Heat in the United States: Climate Choices and the Future of Dangerously Hot Days, Union of 
+Concerned Scientists,  July 2019 
+12. Managing Diabetes in the Heat. 2018  [cited 2020 April,26, 2020]; Available from: https://
+www.cdc.gov/features/diabetesheattravel/index.html. 
+13. Health Problems Heat Up: Climate Change and the Public's Health. 2009. 
+14. Davis RE and N. WM., The Impact of Heat Waves on Emergency Department Admissions in 
+Charlottesville, Virginia, U.S.A. International Journal of Environmental Research and Public Health, 
+2018. 15(7). 
+15. Lundgren-Kownacki, K., et al., Challenges of using air conditioning in an increasingly hot climate. 
+International Journal of Biometeorology, 2018. 62(3): p. 401-412. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38 
+Hotter Summers, Sources, cont. 
+16. Fann N, et al., Estimating the national public health burden associated with exposure to ambient 
+PM2.5 and ozone. Risk Analyis, 2012. 32(1). 
+17. Constible, J., Climate Change and Health in Virginia. 2018, NRDC. 
+18. Sun Q, et al., Global heat stress on health, wildfires, and agricultural crops under different levels of 
+climate warming. Environment International, 2019. 128: p. 125-136. 
+19. Högy, P. and A. Fangmeier, Effects of elevated CO2 on grain quality of wheat. Journal of Cereal 
+Science, 2008. 48(3): p. 580-591. 
+20. Crane-Droesch, A., et al., Climate Change and Agricultural Risk Management Into the 21st Century, 
+U.S.D.o. Agriculture, Editor. 2019. 
+21. Krishnamurthy, P.K., K. Lewis, and R.J. Choularton, Climate impacts on food security and nutrition: A 
+review of existing knowledge. 2012, Devon, United Kingdom: Met Office and WFP’s Office for 
+Climate Change, Environment and Disaster Risk Reduction. 
+22. Dong, J., et al., Effects of Elevated CO2 on Nutritional Quality of Vegetables: A Review. Frontiers in 
+Plant Science, 2018. 9: p. 924. 
+23. Brown, M.E., et al., Climate Change Global Food Security and the U.S. Food System, in Climate 
+Change, Global Food Security, and the U.S. Food System. 2015. 
+24. Virginia: Montgomery County. 2020  April 24, 2020]; Available from: https://
+www.countyhealthrankings.org/app/virginia/2020/rankings/montgomery/county/outcomes/
+overall/snapshot. 
+25. Coleman-Jensen, A., et al., Household Food Security in the United States in 2017, U.S.D.o. 
+Agriculture, Editor. 2018. 
+ 
+ 
+ 
+Sources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+39 
+Sources 
+Warmer Winters, Sources: 
+26. NOAA Climate Explorer, Blacksburg, VA in Montgomery County: Days with min < 32oF, Days with max < 
+32 oF, Average Daily Minimum; Historical Observed, Projected Modeled Data 
+27. Impacts, Risks, and Adaptation in the United States: Fourth National Climate Assessment, Volume II, 
+Chapter 19, Southeast United States. 
+28. 2018: Human Health. In Impacts, Risks, and Adaptation in the United States: Fourth National Climate 
+Assessment, Volume II Ebi, K.L., J.M. Balbus, G. Luber, A. Bole, A. Crimmins, G. Glass, S. Saha, M.M. 
+Shimamoto, J. Trtanj, and J.L. White-Newsome, [Reidmiller, D.R., C.W. Avery, D.R. Easterling, K.E. Kunkel, 
+K.L.M. Lewis, T.K. Maycock, and B.C. Stewart (eds.)]. U.S. Global Change Research Program, Washington, 
+DC, USA, pp. 539–571. doi: 10.7930/NCA4.2018.CH14  
+29. Crane-Droesch, A., et al., Climate Change and Agricultural Risk Management Into the 21st Century, 
+U.S.D.o. Agriculture, Editor. 2019. 
+30. Cline, W., Global Warming and Agriculture. Finance & Development, 2008. 
+31. 2018 VA Mosquito Activity Report. 2019; Available from: https://www.vdh.virginia.gov/content/uploads/
+sites/12/2019/05/2018-VA-Mosquito-Activity-Report_51619.pdf. 
+32. VDH Monthly Mosquito Activity Report. 2019; Available from: https://www.vdh.virginia.gov/content/
+uploads/sites/12/2019/08/VA-Mosquito-Activity-Report_Jul31-1.pdf. 
+33. West Nile Virus. 2019  [cited 2020 April 24, 2020]; Available from: https://www.cdc.gov/features/
+westnilevirus/index.html. 
+33. Eastern Equine Encephalitis. 2019  [cited 2020 April 24,2020]; Available from: https://www.cdc.gov/
+easternequineencephalitis/index.html. 
+34. ArboNET.  [cited 2020 April 20, 2020]; Available from: https://wwwn.cdc.gov/arbonet/maps/
+ADB_Diseases_Map/index.html. 
+35. Dengue. 2020  [cited 2020 April 20,2020]; Available from: https://www.cdc.gov/dengue/index.html. 
+36. Schramm, P., Human Health and Climate Change in the Southeast USA, in Climate of the Southeast 
+United States, Ingram K.T., et al., Editors. 2013, Island Press: Washington, DC. 
+37. Butterworth, M., C. Morin, and A. Comrie, An Analysis of the Potential Impact of Climate Change on 
+Dengue Transmission in the Southeastern United States. Environmental Health Perspectives, 2016. 125
+(4): p. 579-585. 
+38. Kraemer, M.U.G., et al., Past and future spread of the arbovirus vectors Aedes aegypti and Aedes 
+albopictus. Nature Microbiology, 2019. 4(5): p. 854-863. 
+39. Ticks and Tick-borne Diseases of Virginia. 2019  [cited 2020 April 26,2020]; Available from: https://
+www.vdh.virginia.gov/content/uploads/sites/12/2019/08/Tick-borne-Disease-in-Virginia-Flyer-8.5-x-11-
+format-for-website-.pdf. 
+40. Brownstein JS, Holford TR, and F. D., Effect of Climate Change on Lyme Disease Risk in North America. 
+Ecohealth, 2005. 2(1): p. 38-46. 
+41. Rocky Mountain Spotted Fever(RMSF). 2019  [cited 2020 April 20,2020]; Available from: https://
+www.cdc.gov/rmsf/index.html. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40 
+Sources 
+Changing Precipitation Patterns, Sources: 
+42. NOAA Climate Explorer, Blacksburg, VA in Montgomery County: # Days >1” Precipitation, Total Annual Pre-
+cipitation, Total Monthly Precipitation; Historical Observed, Projected Modeled Data 
+43. Impacts, Risks, and Adaptation in the United States: Fourth National Climate Assessment, Volume II, Chapter 
+19, Southeast United States. 
+44. Lee, D., Jung, J. The growth of low-income population in floodplains: A case study of Austin, TX. KSCE J Civ 
+Eng 18, 683–693 (2014). https://doi.org/10.1007/s12205-014-0205-z  
+45. Charron D, et al., Vulnerability of waterborne diseases to climate change in Canada: a review. Journal of Tox-
+icology and Environmental Health, 2004. 67: p. 1667-1677. 
+46. Cann KF, et al., Extreme water-related weather events and waterborne disease. Epidemiology and Infection, 
+2013. 141(4). 
+47. Napier, M.D., et al., Exposure to human-associated fecal indicators and self-reported illness among swim-
+mers at recreational beaches: a cohort study. Environmental Health, 2017. 16(1): p. 103. 
+48. Leptospirosis. 2019  [cited 2020 April 24, 2020]; Available from: https://www.cdc.gov/leptospirosis/
+index.html. 
+49. E. coli. 2020  [cited 2020 April 20, 2020]; Available from: https://www.cdc.gov/ecoli/index.html. 
+50. Salmonella. 2020  [cited 2020 April 20, 2020]; Available from: https://www.cdc.gov/salmonella/. 
+51. New River Valley Hazard Mitigation Plan: 2017 Update. 2017, NRVRC. 
+52. Bell, J.E., et al., Changes in extreme events and the potential impacts on human health. Journal of the Air & 
+Waste Management Association, 2018. 68(4): p. 265-287. 
+53. Easterling, D.R., et al., Precipitation Change in the United States. 2017, Washington, DC, USA: U.S. Global 
+Change Research Program. 
+54. Crane-Droesch, A., et al., Climate Change and Agricultural Risk Management Into the 21st Century, U.S.D.o. 
+Agriculture, Editor. 2019. 
+55. Krishnamurthy, P.K., K. Lewis, and R.J. Choularton, Climate impacts on food security and nutrition: A review 
+of existing knowledge. 2012, Devon, United Kingdom: Met Office and WFP’s Office for Climate Change, Envi-
+ronment and Disaster Risk Reduction. 
+56. Brown, M.E., et al., Climate Change Global Food Security and the U.S. Food System, in Climate Change, Glob-
+al Food Security, and the U.S. Food System. 2015. 
+57. Coleman-Jensen, A., et al., Household Food Security in the United States in 2017, U.S.D.o. Agriculture, Editor. 
+2018. 
+58. Underwater: Rising Seas, Chronic Floods, and the Implications for US Coastal Real Estate, Union of Concerned 
+Scientists, June 2018; www.ecsusa.org/underwater 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+41 
+Sources 
+Acknowledgements 
+Development of Blacksburg’s Climate Vulnerability Assessment Report was supported by an advisory 
+team of individuals who lent their time, experience and extensive knowledge to this important work. 
+Their contributions and guidance were invaluable to the process and the Town of Blacksburg extends its 
+gratitude to them.  The members of the Climate Vulnerability Assessment Advisory Team are: 
+Advisory Team Member 
+Area(s) of Expertise and Practice 
+Dr. Jacob Barney 
+Invasive plants; habitat-level response to novel climate scenarios 
+Dr. Jeb Barrett 
+Climate trends and ecological processes: soils, hydrology, biodiversity 
+Dr. Daniel Breslau 
+Energy systems and society; energy transition 
+Dr. Anamaria Bukvic 
+Climate change adaptation, vulnerability and relocation 
+Dr. Jonathan Czuba 
+Surface water hydrology under extreme weather conditions 
+Dr. Zachary Easton 
+Land use and climate change impacts on water quality and quantity 
+Dr. Andrew Ellis 
+Climate modeling; hydroclimatic variability and change 
+Christy Gabbard 
+Food system resiliency 
+Dr. Julia Gohlke 
+Heat stress and public health, health outcomes and landscape change 
+Maeve Gould 
+Transportation & land use planning; comprehensive planning 
+Kafi Howard 
+Storm water engineering, water quality 
+Dr. Vivica Kraak 
+Food systems; nutrition and food policy 
+Tianjun Lu 
+Climate modeling and impacts for urbanized areas 
+Dr. Todd Schenk 
+Climate adaptation planning; infrastructure, community engagement 
+Dr. Julie Shortridge 
+Water systems and security in a changing climate 
+Dr. Peter Sforza 
+Mapping climate: heat stress, extreme temperatures, flooding 
+Matt Stolte 
+Civil engineering, infrastructure asset management 
+Christy Straight 
+Regional hazard mitigation planning 
+Dr. Quinn Thomas 
+Climate change and forest dynamics, ecosystem modeling 
+Michael Walker 
+Waste water infrastructure and operations 
+ 
+ 
+Carol Davis 
+Advisory group convener; Sustainability Manager, Town of Blacksburg 
+Acknowledgements 
+42 
+Next Steps 
+Communities like Blacksburg will be well served by taking an honest look at the climate vulnerabilities they will be 
+facing in the coming years and decades. Decisions we make now around infrastructure, land use, transportation 
+investments, buildings, and public health can prepare us, not just to survive in a changing climate, but to thrive.  
+Blacksburg's Climate Vulnerability Assessment has revealed a handful of community systems that are most at risk 
+in a changing climate, as highlighted in the chart below: 
+Going forward, the Town intends to convene expert and equity-centered policy development teams to 
+investigate our best strategy options for adaptation and future resilience.  The four policy teams will focus on the 
+following themes: Food Resiliency & Security, Human Health & Wellbeing, Biodiversity & Ecosystems, and 
+Infrastructure and Basic Services. 
+The public is invited to share their ideas and priorities and submit questions as we investigate the range of 
+potential adaptation strategies.  
+43 
+Next Steps 
+Feedback and Engagement Process 
+This report was developed to identify and prioritize the climate hazards that Blacksburg will be facing in the 
+coming decades, the community systems that may be most at risk, and to put forth a set of broad policy 
+recommendations to be considered.  Translating those recommendations into actionable policies and programs 
+will require collaborative and creative partnerships with the whole community.   
+ 
+If you have questions or feedback for the Climate Vulnerability Assessment Advisory Team or the Town, you can 
+provide comments directly at Let’s Talk Blacksburg: Climate Vulnerability.  There you will find a separate tab 
+for each of the four policy teams: Food Resiliency & Security, Human Health & Wellbeing, Biodiversity & 
+Ecosystems, and Infrastructure & Basic Services. 
+ 
+You can also send questions or comments directly to the Sustainability Office: sustainability@blacksburg.gov 
+  
+ 
+ 
+ 

@@ -1,0 +1,43 @@
+version: 'i'
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgsql-data:/var/lib/postgresql/data
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name:  PgAdmin
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: 1234
+      PGADMIN_LISTEN_PORT: 80
+    ports:
+      - 5011:80
+    volumes:
+      - pgadmin-data:/var/lib/pgadmin
+    links:
+      - postgres
+
+  python-app:
+    build:
+      context: .
+    ports:
+      - "8888:8888"
+    depends_on:
+      - postgres
+    volumes:
+      - ./output:/app/output
+    links:
+      - postgres
+
+volumes:
+  pgsql-data:
+  pgadmin-data:
